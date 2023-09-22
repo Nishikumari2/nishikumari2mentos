@@ -1,0 +1,40 @@
+#box{
+    background:#d2dce4;
+    border:0px solid 
+}
+
+nav .navbar-brand{
+    width: 150px;
+}
+
+nav .navbar-nav li{
+    margin: 0 20px;
+}
+nav .navbar-nav li a.nav-link{
+    color: black !important;
+    font-weight: 600;
+}
+
+nav .navbar-nav li a img{
+    width: 20px;
+}
+
+.accordion .accordion-body{
+    padding: 30px;
+    
+}
+
+.accordion .accordion-body p{
+    border-left: 4px solid rgb(255, 0, 153);
+    padding: 0 20px;
+}
+.accordion .accordion-body img{
+    width: 100px;
+    
+}
+
+#section-2{
+    background-image: url('images/Inside\ MENTOONS-21.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
